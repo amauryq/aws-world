@@ -1,1 +1,1 @@
-
+\[VPC\](resources/vpc.png)
