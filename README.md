@@ -1,3 +1,3 @@
 # AWS Concepts
 
-!\[VPC
+!\[VPC\](resources/vpc.png)
